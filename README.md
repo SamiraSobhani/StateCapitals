@@ -1,0 +1,2 @@
+# StateCapitals
+practise for collection
